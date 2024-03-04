@@ -15,8 +15,7 @@ Welcome to the Password Generator project! This simple web application generates
 
 [![Password Generator Demo](demo.gif)](https://your-password-generator-demo-url.com)
 
-Check out the live demo [here](https://your-password-generator-demo-url.com).
-
+Check out the live demo [here](https://temporary-password-generator.netlify.app/).
 ## Features
 
 - Generate strong and secure passwords with customizable options.
